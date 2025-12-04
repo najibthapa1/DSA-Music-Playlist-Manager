@@ -1,0 +1,69 @@
+{
+    "English": [
+        {
+            "title": "Blinding Lights",
+            "artist": "The Weeknd"
+        },
+        {
+            "title": "Perfect",
+            "artist": "Ed Sheeran"
+        },
+        {
+            "title": "Levitating",
+            "artist": "Dua Lipa"
+        },
+        {
+            "title": "Ride",
+            "artist": "Twenty One Pilots"
+        }
+    ],
+    "Hindi": [
+        {
+            "title": "Tum Hi Ho",
+            "artist": "Arijit Singh"
+        },
+        {
+            "title": "Kesariya",
+            "artist": "Arijit Singh"
+        },
+        {
+            "title": "Raataan Lambiyan",
+            "artist": "Tanishk Bagchi"
+        },
+        {
+            "title": "Shayad",
+            "artist": "Arijit Singh"
+        },
+        {
+            "title": "Apna Time Aayega",
+            "artist": "Divine"
+        }
+    ],
+    "Nepali": [
+        {
+            "title": "Timi Sanga",
+            "artist": "Sugam Pokharel"
+        },
+        {
+            "title": "Saili",
+            "artist": "Hemant Rana"
+        },
+        {
+            "title": "Sa Karnali",
+            "artist": "Nabin K. Bhattarai"
+        },
+        {
+            "title": "Yo Mann Ta Mero Nepali Ho",
+            "artist": "Phosphenes"
+        },
+        {
+            "title": "Chiya Barima",
+            "artist": "The Axe Band"
+        },
+        {
+            "title": "Sanjha Pakha",
+            "artist": "The Axe Band"
+        }
+    ],
+    "Newari": []
+}
